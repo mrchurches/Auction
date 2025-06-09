@@ -1,6 +1,6 @@
 # Auction Smart Contract
 
-This repository contains a Solidity smart contract for an auction system, developed as the final project for Module 2 of the Ethereum Developer Pack course. I built this contract to learn about smart contract development, focusing on secure bidding and refund mechanisms. The contract is deployed on the Sepolia testnet and verified with source code.
+This repository contains a Solidity smart contract for an auction system, developed as the final project for Module 2 of the Ethereum Developer Pack course. I built this contract to learn about smart contract development. The contract is deployed on the Sepolia testnet and verified with source code.
 
 ## Contract Details
 
